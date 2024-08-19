@@ -78,8 +78,8 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "vue.js"],
         title: "뷰를 이용한 사이트 제작",
-        code: "https://github.com/alex8396/port2024-react",
-        view: "https://port2023-vue.netlify.app",
+        code: "https://github.com/alex8396/port2024-vue",
+        view: "https://jport-vuetsite.netlify.app",
         info: [
             "site coding",
             "production period : two days",
@@ -89,8 +89,8 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "next.js"],
         title: "넥스트를 이용한 사이트 제작",
-        code: "https://github.com/webstoryboy/port2023-next",
-        view: "https://port2023-next.netlify.app",
+        code: "https://github.com/alex8396/port2024-next",
+        view: "https://jport-nextsite.netlify.app",
         info: [
             "site coding",
             "production period : two days",
