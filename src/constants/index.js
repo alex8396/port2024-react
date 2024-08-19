@@ -56,8 +56,8 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "webstandard"],
         title: "비트를 이용한 사이트 제작",
-        code: "https://github.com/webstoryboy/port2023-vite",
-        view: "https://port2023-vite.netlify.app",
+        code: "https://github.com/alex8396/port2024-vite",
+        view: "https://jport-vitesite.netlify.app/",
         info: [
             "site coding",
             "production period : two days",
@@ -78,7 +78,7 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "vue.js"],
         title: "뷰를 이용한 사이트 제작",
-        code: "https://github.com/webstoryboy/port2023-vue",
+        code: "https://github.com/alex8396/port2024-react",
         view: "https://port2023-vue.netlify.app",
         info: [
             "site coding",
@@ -193,50 +193,19 @@ export const portText = [
 ];
 
 export const contactText = [
+    
     {
-        link: "https://open.kakao.com/o/gM7YLzwf",
-        title: "KAKAO : webstupids",
-    },
-    {
-        link: "mailto:webstoryboy@naver.com",
-        title: "mail : webstoryboy@naver.com",
+        link: "mailto:alex8396@naver.com",
+        title: "mail : alex8396@naver.com",
     },
 ];
 
 export const footerText = [
-    {
-        title: "youtube",
-        desc: "유튜브에 오시면 더 많은 강의를 볼 수 있습니다.",
-        link: "https://www.youtube.com/@Webstoryboy",
-    },
+    
     {
         title: "github",
         desc: "깃헙에 오시면 더 많은 소스를 볼 수 있습니다.",
-        link: "https://github.com/webstoryboy",
+        link: "https://github.com/alex8396",
     },
-    {
-        title: "blog",
-        desc: "블러그에 오시면 더 많은 정보를 볼 수 있습니다.",
-        link: "https://webstoryboy.co.kr",
-    },
-    {
-        title: "gsap",
-        desc: "GSAP에 오시면 더 많은 강의를 볼 수 있습니다.",
-        link: "https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq",
-    },
-    {
-        title: "react",
-        desc: "리액트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-react",
-    },
-    {
-        title: "vue",
-        desc: "뷰로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-vue",
-    },
-    {
-        title: "next",
-        desc: "넥스트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-next",
-    },
+    
 ];
