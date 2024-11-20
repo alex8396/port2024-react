@@ -22,10 +22,7 @@ export const headerNav = [
         title: "site",
         url: "#site"
     },
-    {
-        title: "portfolio",
-        url: "#port"
-    },
+    
     {
         title: "contact",
         url: "#contact"
